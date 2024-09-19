@@ -1,0 +1,9 @@
+const CONSTANTS = {
+    MAX_NUMBER : 45,
+    MAX_NUMBER_LENGTH : 6,
+
+    ONE_TICKET_PRICE : 1000,
+    TOTAL_PRIZE : 2031555000
+}
+
+export default CONSTANTS

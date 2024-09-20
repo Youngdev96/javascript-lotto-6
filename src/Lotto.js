@@ -9,7 +9,7 @@ class Lotto {
   constructor(numbers) {
     this.#validate(numbers);
     this.#numbers = numbers;
-    Console.print(numbers.toString());
+    Console.print(`[${numbers.join(", ")}]`);
     return numbers;
   }
 

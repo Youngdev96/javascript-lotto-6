@@ -1,7 +1,7 @@
 const MESSAGE = {
-  COST_PROMPT: "구입금액을 입력해 주세요",
-  WINNING_NUMBER_PROMPT: "당첨 번호를 입력해 주세요.",
-  BONUS_NUMBER_PROMPT: "보너스 번호를 입력해 주세요.",
+  COST_PROMPT: "구입금액을 입력해 주세요.\n",
+  WINNING_NUMBER_PROMPT: "당첨 번호를 입력해 주세요.\n",
+  BONUS_NUMBER_PROMPT: "보너스 번호를 입력해 주세요.\n",
 
   BUY_TICKET_MESSAGE: "개를 구매했습니다.",
 
